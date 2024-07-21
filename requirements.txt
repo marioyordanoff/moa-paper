@@ -1,0 +1,6 @@
+watchdog
+langchain
+streamlit
+python-dotenv
+streamlit-ace
+langchain-groq
